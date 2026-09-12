@@ -7,10 +7,7 @@ An AI-powered text translation application built with Python and Streamlit using
 - Simple and interactive interface built with Streamlit
 - Display the translated text directly in the browser
 # Tech Stack
-- Python
-- Streamlit
-- Hugging Face Transformers
-- NLLB-200 (facebook/nllb-200-distilled-600M)
+Python, Streamlit, Hugging Face Transformers, NLLB-200 (facebook/nllb-200-distilled-600M)
 # How It Works
 Enter Text → Select Source Language → Select Target Language → Tokenization → NLLB-200 Model Inference → Decode Output → Translated Text
 
